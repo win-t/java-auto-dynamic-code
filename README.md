@@ -1,5 +1,5 @@
 # Dynamic load jar file
-I create this project to show that java program can load some of their code without restart
+I create this project to show that java program can load some of their code without restart, and also, you do not need to use reflection, that can be avoided using factory pattern.
 
 ## Scenario
 
